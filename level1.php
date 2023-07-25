@@ -8,7 +8,7 @@ confirm("完成的不错！");
  window.location.href="level2.php?keyword=test"; 
 }
 </script>
-<title>欢迎来到level1</title>
+<title>欢迎9296来到level1</title>
 </head>
 <body>
 <h1 align=center>欢迎来到level1</h1>
